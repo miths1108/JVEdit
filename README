@@ -1,0 +1,14 @@
+JVEdit is a Text-Editor coded in JAVA
+
+---About code...
+
+I have implemented this code using JAVA Swing primarily.
+
+---How to run the code?
+
+1. compile the file- "JVEdit.java" <$javac JVEdit.java>
+
+*this will automatically compile the other files and all the required classfiles will be created
+
+2. run the class file JVEdit <$java JVEdit>
+
